@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WatanabePrimo
 - 👀 I’m interested in Java, JS, Python, Go
-- 🌱 I’m currently learning ASP.NET
+- 🌱 I’m currently learning ASP.NET, Go, Kotlin
 - 📫 How to reach me watanabe.primo@gmail.com
 
 <!---
