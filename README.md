@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YNotPrimo
+- 👋 Hi, I’m Ivo
 - 👀 I’m interested in Java and Spring
 - 🌱 I’m currently learning Angular
 
